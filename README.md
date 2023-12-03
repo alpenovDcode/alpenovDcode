@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Evgeniy
 #### I'm IOS Developer
-![I'm IOS Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm IOS Developer](https://github.com/alpenovDcode/alpenovDcode/blob/main/Banner.png)
 
 Hello! I'm a 3rd-year student majoring in Computer Science with a passion for iOS development. My main area of interest lies in building mobile applications on the iOS platform. I am actively learning Swift and various Apple frameworks.
 
