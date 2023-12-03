@@ -1,16 +1,23 @@
-### Hi there 👋
+...### Профиль
 
-<!--
-**alpenovDcode/alpenovDcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Имя: Ваше имя
+- Возраст: ваш возраст
+- Образование: ваше образование
 
-Here are some ideas to get you started:
+### Социальные сети
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[VK](https://vk.com/alpewa) | [Instagram](https://www.instagram.com/still__in.love) | [Telegram](t.me/alpenov)
+
+### My stack
+
+[ссылка_на_изображение_языка_программирования_1](https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg)
+
+[ссылка_на_изображение_языка_программирования_2](https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg)
+
+[ссылка_на_изображение_языка_программирования_3](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg)
+
+[ссылка_на_изображение_языка_программирования_4](https://github.com/devicons/devicon/blob/master/icons/firebase/figma-original.svg)
+
+
+
+```
