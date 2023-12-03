@@ -7,7 +7,7 @@ Hello! I'm a 3rd-year student majoring in Computer Science with a passion for iO
 
 
 # 💫 About Me:
-Hi! My name is Eugene and I am a student who is passionate about mobile development on the iOS platform. At the moment, I am actively studying Swift and Swift, striving to become a sought-after Junior iOS Developer.
+Hi! My name is Eugeniy and I am a student who is passionate about mobile development on the iOS platform. At the moment, I am actively studying Swift and Swift, striving to become a sought-after Junior iOS Developer.
 
 Personal qualities
 Responsible and organized
@@ -20,7 +20,10 @@ My goal is to develop in mobile development, put my accumulated knowledge into p
 I am always open to new knowledge, communication with like-minded people and the opportunity to contribute to the world of mobile development.
 
 # Contact Me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alpenovDcode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/still__in.love/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/alpewa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](t.me/alpenov)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='background-color:#3498db;border-radius:50%;padding:5px;margin:5px'>](https://github.com/alpenovDcode)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style='background-color:#3498db;border-radius:50%;padding:5px;margin:5px'>](https://www.instagram.com/https://www.instagram.com/still__in.love/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40' style='background-color:#3498db;border-radius:50%;padding:5px;margin:5px'>](https://vk.com/alpewa)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40' style='background-color:#3498db;border-radius:50%;padding:5px;margin:5px'>](t.me/alpenov)
 
 # 💻 Tech Stack:
 <p align="left">
