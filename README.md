@@ -23,7 +23,7 @@ I am always open to new knowledge, communication with like-minded people and the
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='background-color:#3498db;border-radius:50%;padding:5px;margin:5px'>](https://github.com/alpenovDcode)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style='background-color:#3498db;border-radius:50%;padding:5px;margin:5px'>](https://www.instagram.com/https://www.instagram.com/still__in.love/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40' style='background-color:#3498db;border-radius:50%;padding:5px;margin:5px'>](https://vk.com/alpewa)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40' style='background-color:#3498db;border-radius:50%;padding:5px;margin:5px'>](t.me/alpenov)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40' style='background-color:#3498db;border-radius:50%;padding:5px;margin:5px'>](https://t.me/alpenov)
 
 # 💻 Tech Stack:
 <p align="left">
