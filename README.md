@@ -16,11 +16,11 @@
 <div align="center">
   <h2>Мой стек</h2>
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" style="display:inline-block; margin: 0 10px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" style="display:inline-block; margin: 0 10px;>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" style="display:inline-block; margin: 0 10px;>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" style="display:inline-block; margin: 0 10px;>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" style="display:inline-block; margin: 0 10px;>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="display:inline-block; margin: 0 10px;>
   </p>
 </div>
