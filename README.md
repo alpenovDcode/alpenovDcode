@@ -71,7 +71,7 @@ I am always open to new knowledge, communication with like-minded people and the
 ![](https://github-contributor-stats.vercel.app/api?username=alpenovDcode&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 #### CodeWars Stats
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=alpenovDcode&top_languages=true)
 
 
 
