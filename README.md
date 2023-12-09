@@ -9,7 +9,7 @@ Hello! I'm a 3rd-year student majoring in Computer Science with a passion for iO
 # 💫 About Me:
 Hi! My name is Eugeniy and I am a student who is passionate about mobile development on the iOS platform. At the moment, I am actively studying Swift and Swift, striving to become a sought-after Junior iOS Developer.
 
-Personal qualities
+Personal qualities: \
 Responsible and organized
 I am sociable and I know how to work in a team
 I strive for self-development and learning new skills
