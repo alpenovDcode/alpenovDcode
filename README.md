@@ -70,10 +70,6 @@ I am always open to new knowledge, communication with like-minded people and the
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alpenovDcode&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-#### CodeWars Stats
-![Codewars](https://github.r2v.ch/codewars?user=alpenovDcode&top_languages=true)
-
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
